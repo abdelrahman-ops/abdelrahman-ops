@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/10/13/37/1000_F_310133756_ipUhuX8ljS45NAXCRDvyBxHh4le0lhfJ.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/cyber-attack-concept-illustration_114360-1976.jpg?w=740&t=st=1712495309~exp=1712495909~hmac=bea8b4e6a62ed75e9a2bb96455bd33920763c452ac58e70807d62df2d972fff5)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Ataa</h1>
 <h3 align="center">Highly skilled software engineer with a passion for creating innovative solutions.</h3>
