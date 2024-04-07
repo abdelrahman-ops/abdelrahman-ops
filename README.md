@@ -1,4 +1,4 @@
-[![MasterHead]((https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))](https://rishavchanda.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Ataa</h1>
 <h3 align="center">Highly skilled software engineer with a passion for creating innovative solutions.</h3>
