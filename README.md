@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-ops&show_icons=true&locale=en" alt="abdelrahman-ops" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-ops&" alt="abdelrahman-ops" /></p>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/abdelrahman-ops/abdelrahman-ops/output/snake.svg" alt="Snake animation" />
