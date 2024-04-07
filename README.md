@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-ops" alt="abdelrahman-ops" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/avada-kadavras" target="blank"><img src="https://img.shields.io/twitter/follow/avada-kadavras?logo=twitter&style=for-the-badge" alt="avada-kadavras" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avada-kadavras" target="blank"><img src="https://img.shields.io/twitter/follow/amilost0_0?logo=twitter&style=for-the-badge" alt="amilost0_0" /></a> </p>
 
 - 🔭 I’m currently working on [D-BLINK](https://abdelrahman-ops.github.io/D-BLINK/)
 
 - 🌱 I’m currently learning **Web Programming and Cyber Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abdelrahman-ops](https://github.com/abdelrahman-ops)
 
 - 📫 How to reach me **abdelrahmanataa17@gmail.com**
 
