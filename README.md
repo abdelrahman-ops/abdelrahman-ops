@@ -7,15 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-ops" alt="abdelrahman-ops" /></a> </p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-ataa-b557b8219/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/amilost0_0?t=GPpd39N839p44l7Z74vu3g&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
 - 🔭 I’m currently working on [D-BLINK](https://abdelrahman-ops.github.io/D-BLINK/)
 
 - 🌱 I’m currently learning **Web Programming and Cyber Security**
@@ -24,10 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avada-kadavras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avada-kadavras" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrahman ataa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman ataa" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelrahman ataa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrahman ataa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrahmanataa17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahmanataa17" height="30" width="40" /></a>
+
+  <a href="https://twitter.com/amilost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avada-kadavras" height="30" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/abdelrahman-ataa-b557b8219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman ataa" height="30" width="40" /></a>
+
+  <a href="https://instagram.com/abdelrahman0_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrahman ataa" height="30" width="40" /></a>
+
+  <a href="https://codeforces.com/profile/abdelrahmanataa17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahmanataa17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
