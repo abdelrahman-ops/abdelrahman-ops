@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-ops" alt="abdelrahman-ops" /></a> </p>
 
 <div align="left">
-  <a href="www.linkedin.com/in/ihab-mahmoud-761341292" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahman-ataa-b557b8219/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Ihab__mahmoud?t=GPpd39N839p44l7Z74vu3g&s=09" target="_blank">
+  <a href="https://x.com/amilost0_0?t=GPpd39N839p44l7Z74vu3g&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
