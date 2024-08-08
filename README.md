@@ -18,14 +18,13 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [D-BLINK](https://abdelrahman-ops.github.io/D-BLINK/)
 - 🌱 I’m expanding my expertise in **Web Programming and Cyber Security**
 - 📫 You can reach me at **abdelrahmanataa17@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-    <a href="https://twitter.com/amilost0_0" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <a href="https://x.com/abdelrahmanside?s=09" target="blank">
+        <img align="center" src="<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>" alt="Twitter" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/abdelrahman-ataa-b557b8219/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
