@@ -10,17 +10,23 @@
   <div style="width: 100%; height: 1px; background: linear-gradient(90deg, transparent, #7C3AED, transparent);"></div>
 </div>
 
-## 🧭 Profile
+## 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman-ops&label=Views&color=7C3AED&style=flat" alt="Profile Views">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman-ops&label=Profile+Views&color=7C3AED&style=flat)
+  ![Followers](https://img.shields.io/github/followers/abdelrahman-ops?label=Followers&style=flat&color=7C3AED)
+  ![Stars](https://img.shields.io/github/stars/abdelrahman-ops?label=Stars&style=flat&color=7C3AED)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=abdelrahman-ops&theme=nightowl&margin-w=15&margin-h=15&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 📖 About
 
-I'm a computer engineering student passionate about building software that makes a difference. My approach combines technical excellence with user-centric design, creating solutions that are both powerful and intuitive.
+I'm a 4th-year computer engineering student passionate about building software that makes a difference. My approach combines technical excellence with user-centric design, creating solutions that are both powerful and intuitive.
 
-- 🎓 **Computer & Communication Engineering** @ Mansoura University | GPA: 3.66
+- 🎓 **4th Year Computer Engineering** @ Mansoura University | GPA: 3.73
 - 🏆 **3rd Place**, Samsung Innovation Campus Hackathon
 - 🔭 **Currently exploring**: Cloud architecture and AI integration
 - 📍 **Based in** Egypt
@@ -85,7 +91,7 @@ I'm a computer engineering student passionate about building software that makes
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-ops&theme=nightowl&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-ops&theme=nightowl&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
@@ -101,6 +107,9 @@ I'm a computer engineering student passionate about building software that makes
   </a>
   <a href="https://leetcode.com/abdelrahmanataa17/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/abdelrahmanataa17" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
   <a href="mailto:abdelrahmanataa17@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
