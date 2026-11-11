@@ -1,0 +1,45 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # Stats cards -> profile-summary-card-output/
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Falls back to the default token if no PAT secret exists.
+          # If you see "Resource not accessible by integration",
+          # create a PAT and save it as the SUMMARY_GITHUB_TOKEN secret.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+
+      # 3D contribution graph -> profile-3d-contrib/
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit 3D graph
+        run: |
+          git pull --rebase origin main || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push origin HEAD:main
